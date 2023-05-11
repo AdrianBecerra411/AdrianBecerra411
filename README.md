@@ -2,6 +2,17 @@
 My name is Adrian Becerra Meza, and I'm currently studying a Bachelor's In Computer Science And Technology at Tecnológico de Monterrey.
 I'm passionate about game development and being able to use new technologies
 
+## Stats
+<table align="center">
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianBecerra411&show_icons=true&theme=synthwave"> 
+</td>
+  
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBecerra411&hide_progress=true">
+  </td>
+</table>
+
 ## Favorite Projects
 <table align="center">
 <td>
@@ -43,3 +54,4 @@ I'm passionate about game development and being able to use new technologies
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
+
